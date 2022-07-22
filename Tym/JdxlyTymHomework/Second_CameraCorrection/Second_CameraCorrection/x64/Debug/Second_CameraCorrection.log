@@ -1,0 +1,27 @@
+﻿  main.cpp
+d:\programs\environments\opencv\build\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\programs\environments\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\programs\environments\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\programs\environments\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\programs\code\c++\ccut\吉大夏令营\jdxlytymhomework\second_cameracorrection\second_cameracorrection\main.cpp(59): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\programs\code\c++\ccut\吉大夏令营\jdxlytymhomework\second_cameracorrection\second_cameracorrection\main.cpp(107): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\programs\code\c++\ccut\吉大夏令营\jdxlytymhomework\second_cameracorrection\second_cameracorrection\main.cpp(108): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+d:\programs\code\c++\ccut\吉大夏令营\jdxlytymhomework\second_cameracorrection\second_cameracorrection\main.cpp(137): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\programs\code\c++\ccut\吉大夏令营\jdxlytymhomework\second_cameracorrection\second_cameracorrection\main.cpp(138): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Second_CameraCorrection.vcxproj -> D:\Programs\Code\C++\CCUT\吉大夏令营\JdxlyTymHomework\Second_CameraCorrection\x64\Debug\Second_CameraCorrection.exe
